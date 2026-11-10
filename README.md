@@ -20,6 +20,8 @@ Try the [GPT Image 2.5 AI image generator](https://videoall.ai/gpt-image-2-5) �
 
 Hands-on pricing notes: [GPT Image 2.5 pricing math — when 10, 20, and 30 credits are worth it](https://medium.com/@henry.jinhao/gpt-image-2-5-pricing-math-when-10-20-and-30-credits-are-worth-it-bffee1774866).
 
+Field notes: [From Pencil to Deliverable — five intermediate states between a sketch and a finished image](https://telegra.ph/From-Pencil-to-Deliverable-Five-Intermediate-States-Between-a-Sketch-and-a-Finished-Image-11-10) (why placement should be fixed on Flare at 1K before Sunburst spends 2K or 4K credits on detail).
+
 Anime Opening
 
 Make an Anime Opening with AI — generate a cinematic anime opening from text or an image, pick the best video model for each shot (Kling for action physics, Seedance for texture detail, Hailuo for music-synced cuts, MiniMax for lip-synced singing), and follow the 6-slot prompt template (subject, setting, action, camera, lighting, mood). Free credits to start, no credit card.
