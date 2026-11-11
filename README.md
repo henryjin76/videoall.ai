@@ -27,3 +27,5 @@ Anime Opening
 Make an Anime Opening with AI — generate a cinematic anime opening from text or an image, pick the best video model for each shot (Kling for action physics, Seedance for texture detail, Hailuo for music-synced cuts, MiniMax for lip-synced singing), and follow the 6-slot prompt template (subject, setting, action, camera, lighting, mood). Free credits to start, no credit card.
 
 Hands-on: the real work moved from drawing frames to writing the shot list — [Make an Anime Opening with AI](https://videoall.ai/anime-opening/).
+
+Notes from six months of use: [What Still Breaks](https://henryjin1.substack.com/p/what-still-breaks-six-months-of-ai) (the failure list, ranked by how often each one bites) and [The 90-Second Essay](https://henryjin1.substack.com/p/the-90-second-essay-what-anime-openings) (why the ninety-second form compresses so hard).
